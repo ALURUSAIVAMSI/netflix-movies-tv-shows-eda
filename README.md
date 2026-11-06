@@ -100,3 +100,19 @@ KL University, Vijayawada
 Beginner-Level Data Science Project
 
 **Skills Demonstrated:** Python, Data Cleaning, Pandas, Exploratory Data Analysis, and Data Visualization.
+## Visualizations
+
+### 1. Content Distribution
+![Content Distribution](content_distribution.png)
+
+### 2. Top 10 Countries
+![Top Countries](top_countries.png)
+
+### 3. Release Year Trend
+![Release Year Trend](release_year_trend.png)
+
+### 4. Top 10 Genres
+![Top Genres](top_genres.png)
+
+### 5. Content Ratings
+![Content Ratings](content_ratings.png)
